@@ -1,0 +1,3 @@
+".\Objects\STARTUP.obj" 
+TO ".\Objects\uVision Project" 
+PRINT(".\Listings\uVision Project.m51")
